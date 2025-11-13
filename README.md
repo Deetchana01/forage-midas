@@ -15,7 +15,7 @@ This project is based on the JPMC Advanced Software Engineering Forage program. 
 - Real-time transaction processing
 - Data persistence with JPA/Hibernate
 
-## Technical Stack
+## Technical stack
 
 - Java 17
 - Spring Boot 3.2.5
